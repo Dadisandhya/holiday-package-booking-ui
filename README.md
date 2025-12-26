@@ -1,4 +1,5 @@
 This project is a travel package booking page UI built using HTML, CSS
+
 Features:
 Indian & International holiday tabs
 Package selection (With Flights / Without Flights / Bus)
@@ -11,6 +12,7 @@ Hotel standard selection (3★ / 4★ / 5★ – clickable)
 Meal options (Lunch / Dinner)
 Price details panel with GST and total cost
 Flight list section showing available flights and prices
+
 Technologies Used:
 HTML – Page structure
 CSS – Layout and styling
