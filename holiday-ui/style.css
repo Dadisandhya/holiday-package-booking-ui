@@ -13,9 +13,7 @@ body {
 .upper-container {
     background: #f4f6fb;
     padding: 20px;
-}
 
-/* Tabs */
 .holiday-tabs button {
     padding: 8px 16px;
     border: none;
@@ -41,8 +39,6 @@ body {
     font-weight: bold;
     color: #000;
 }
-
-/* Layout */
 .upper-content {
     display: flex;
     gap: 20px;
@@ -329,4 +325,5 @@ body {
 
 .flight-header .right {
     text-align: right;
+
 }
